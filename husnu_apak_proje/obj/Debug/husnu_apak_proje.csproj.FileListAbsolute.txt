@@ -1,0 +1,24 @@
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\bin\Debug\husnu_apak_proje.exe.config
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\bin\Debug\husnu_apak_proje.exe
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\bin\Debug\husnu_apak_proje.pdb
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.csprojResolveAssemblyReference.cache
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Form1.resources
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Properties.Resources.resources
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.csproj.GenerateResource.Cache
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.csproj.CoreCompileInputs.cache
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.exe
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.pdb
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Form2.resources
+C:\Users\ikilic\source\repos\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Form3.resources
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\bin\Debug\husnu_apak_proje.exe.config
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\bin\Debug\husnu_apak_proje.exe
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\bin\Debug\husnu_apak_proje.pdb
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.csprojAssemblyReference.cache
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Form1.resources
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Form2.resources
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Form3.resources
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.Properties.Resources.resources
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.csproj.GenerateResource.cache
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.csproj.CoreCompileInputs.cache
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.exe
+C:\Users\HUSNU APAK\Downloads\husnu_apak_proje\husnu_apak_proje\husnu_apak_proje\obj\Debug\husnu_apak_proje.pdb
